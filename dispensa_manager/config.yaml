@@ -1,7 +1,7 @@
-name: "Dispensa Manager"
+name: "Dispensa Manager (fix ingress)"
 description: "Backend API per la gestione della dispensa con barcode scanner, PWA iPhone e notifiche Telegram"
 version: "1.1.0"
-slug: dispensa_manager
+slug: dispensa_manager_fix
 init: false
 arch:
   - aarch64
